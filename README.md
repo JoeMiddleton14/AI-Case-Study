@@ -1,6 +1,6 @@
 # AI-Case-Study
 Artificial Intelligence in Sports
-# 🏀 Second Spectrum
+# 🏀 Second Spectrum ⚽
 
 ## Overview
 
