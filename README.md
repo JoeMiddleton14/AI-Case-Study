@@ -16,7 +16,10 @@ Second Spectrum enables new and compelling content and experiences through inter
 
 Second Spectrum's real-time augmentation pipeline allows them to produce visually and appealing content rapidly.  With the use of interactive applications, producers, editors, and fans can create hundreds of stories and highlights in minutes through simple web interfaces and embeddable APIs.
 
-Second Spectrum's state-of-the-art player tracking system uses machine learning and computer vision techniques produce fast and accurate location data for sports such as basketball and soccer.  
+Second Spectrum's state-of-the-art player tracking system uses machine learning and computer vision techniques produce fast and accurate location data for sports such as basketball and soccer. 
+
+[![download](https://github.com/JoeMiddleton14/AI-Case-Study/assets/162524521/e90df486-d276-4c4b-9fb8-754a8aa4fabc)](https://www.youtube.com/watch?v=MoLh1r2pMdM)
+
 
 In March, 2023 the [NBA](https://pr.nba.com/nba-genius-sports-second-spectrum-expanded-partnership/#:~:text=We%20are%20the%20trusted%20partner,NASCAR%2C%20AFA%20and%20Liga%20MX.) announced a multi-year partnership with Second Spectrum.  The two are working together to develop "Dragon," a platform that will track “mesh” data, which aims to synthesize millions of on-court basketball data points.
 
