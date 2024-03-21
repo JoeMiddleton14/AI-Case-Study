@@ -4,6 +4,8 @@ Artificial Intelligence in Sports
 
 ## Overview
 
+![download-1](https://github.com/JoeMiddleton14/AI-Case-Study/assets/162524521/123687be-765c-4914-8cb0-b363c4fce7a3)
+
 Second Spectrum is a spatiotemporal data analytics company that enriches the way people interact with, underdstand and enjoy sports.
 
 [Second Spectrum](https://www.secondspectrum.com/index.html) was founded in 2013 by Jeff Su, Rajiv Maheswaran, Yu-Han Chang and has become a world-leading and fully integrated sports AI provider, offering tracking, analytics and data visualization services.
@@ -16,7 +18,9 @@ Second Spectrum enables new and compelling content and experiences through inter
 
 Second Spectrum's real-time augmentation pipeline allows them to produce visually and appealing content rapidly.  With the use of interactive applications, producers, editors, and fans can create hundreds of stories and highlights in minutes through simple web interfaces and embeddable APIs.
 
-Second Spectrum's state-of-the-art player tracking system uses machine learning and computer vision techniques produce fast and accurate location data for sports such as basketball and soccer. 
+Second Spectrum's state-of-the-art player tracking system uses machine learning and computer vision techniques produce fast and accurate location data for sports such as basketball and soccer.
+
+The Youtube video below explains how data analytics and sports come together.
 
 [![download](https://github.com/JoeMiddleton14/AI-Case-Study/assets/162524521/e90df486-d276-4c4b-9fb8-754a8aa4fabc)](https://www.youtube.com/watch?v=MoLh1r2pMdM)
 
