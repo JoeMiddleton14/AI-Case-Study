@@ -18,9 +18,9 @@ Second Spectrum enables new and compelling content and experiences through inter
 
 Second Spectrum's real-time augmentation pipeline allows them to produce visually and appealing content rapidly.  With the use of interactive applications, producers, editors, and fans can create hundreds of stories and highlights in minutes through simple web interfaces and embeddable APIs.
 
+![index](https://github.com/JoeMiddleton14/AI-Case-Study/assets/162524521/cb42ece5-794d-485d-95ee-660ffe5d9a0d)
+
 In 2016 and in collaboration with Sportsradar's state-of-the-art player tracking system, Second Spectrum used machine learning and computer vision techniques to produce fast and accurate location data for the NBA.  The data provided avdanced statistics such as player speed, distance, defensive impact, and quality of shot.
-
-
 
 The Youtube video below explains how data analytics, machine learning and sports come together:
 
